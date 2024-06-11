@@ -1,8 +1,7 @@
 from tkinter import *
 from tkinter.ttk import Combobox
-import tkinter as tk
 from tkinter import messagebox
-import openpyxl, xlrd
+import openpyxl
 from openpyxl import Workbook
 import pathlib
 
